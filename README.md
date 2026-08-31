@@ -2,6 +2,12 @@
 
 **CertMan** is a modern, desktop GUI application written in Windows PowerShell and WPF (Windows Presentation Foundation). It provides a clean, dark-themed dashboard and interactive explorer for viewing, monitoring, inspecting, importing, exporting, and deleting certificates across Windows Certificate Stores (`CurrentUser` and `LocalMachine`).
 
+![PSRegEdit Dark Theme](https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%207%2B-blue?logo=powershell)
+![Platform](https://img.shields.io/badge/Platform-Windows-007ACC?logo=windows)
+![Theme](https://img.shields.io/badge/Theme-Native%20Dark-181818)
+
+![PSCertMan Preview](Preview.png)
+
 ---
 
 ## 🌟 Key Features
